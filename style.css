@@ -1,0 +1,10 @@
+@import './components/Navbar.css';
+@import './components/Slide1.css';
+@import './components/Slide2.css';
+@import './components/Slide3.css';
+@import './components/Slide4.css';
+
+body {
+	margin: 0;
+	box-sizing: border-box;
+}

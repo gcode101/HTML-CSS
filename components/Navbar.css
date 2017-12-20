@@ -1,0 +1,25 @@
+.Navbar {
+	display: flex;
+	justify-content: center;
+}
+
+.Navbar__nav {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-around;
+	padding: 5px;
+	width: 50%;
+}
+
+@media (max-width: 600px) {
+	.Navbar {
+		justify-content: flex-start;
+	}
+	.Navbar__nav {
+		flex-direction: column;
+		justify-content: space-between;
+		height: 120px;
+		padding: 15px;
+		margin-top: 0;
+	}
+}
