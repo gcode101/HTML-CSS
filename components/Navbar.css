@@ -1,6 +1,10 @@
 .Navbar {
 	display: flex;
 	justify-content: center;
+	position: absolute;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.79);
+	border-color: rgba(231, 231, 231, 0.45);
 }
 
 .Navbar__nav {
@@ -9,6 +13,11 @@
 	justify-content: space-around;
 	padding: 5px;
 	width: 50%;
+	/*font-color: rgba(255, 255, 255, 0.81);*/
+}
+
+.Navbar__nav li {
+	color: #ffffff;
 }
 
 @media (max-width: 600px) {
