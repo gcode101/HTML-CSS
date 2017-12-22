@@ -1,0 +1,8 @@
+.Page-title {
+	display: flex;
+	justify-content: center;
+	border-bottom: solid;
+	width: 20%;
+	margin-bottom: 90px;
+	margin-top: 80px;
+}

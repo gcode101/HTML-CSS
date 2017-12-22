@@ -3,6 +3,8 @@
 @import './components/Slide2.css';
 @import './components/Slide3.css';
 @import './components/Slide4.css';
+@import './components/Page-title.css';
+@import './components/projects/Projects.css';
 
 body {
 	background: #f8f8f8;
