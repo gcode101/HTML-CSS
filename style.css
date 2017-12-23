@@ -1,10 +1,9 @@
-@import './components/Navbar.css';
-@import './components/Slide1.css';
-@import './components/Slide2.css';
-@import './components/Slide3.css';
-@import './components/Slide4.css';
-@import './components/Page-title.css';
-@import './components/projects/Projects.css';
+@import './components/css/Navbar.css';
+@import './components/css/Slide1.css';
+@import './components/css/Slide2.css';
+@import './components/css/Slide3.css';
+@import './components/css/Slide4.css';
+@import './components/css/Page-title.css';
 
 body {
 	background: #f8f8f8;

@@ -1,0 +1,74 @@
+.Slide3 {
+	background: #f4f4f4;
+	height: 800px;
+}
+
+.Slide3__projects {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Projects {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+	width: 100%;
+}
+
+.Projects__item {
+  display: none;
+}
+
+.Carousel__arrow-left {
+  font-size: 42px;
+  left: 20px;
+  top: 50px;
+}
+
+.Carousel__arrow-right {
+  font-size: 42px;
+  right: 20px;
+  top: 50px;
+}
+
+.Project__img {
+  background-image: url('../../images/black&red_binary.jpg');
+  height: 200px;
+  width: 20%;
+  margin-right: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Project__item-focused {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+}
+
+.Project__placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 419px;
+  background: #f8f8f8;
+}
+
+.Project__info {
+  width: 50%;
+}
+
+.Project__info-holder {
+  display: flex;
+  justify-content: center;
+}
+
+.Project__title {
+  font-size: 1.7em;
+}
+
+
+

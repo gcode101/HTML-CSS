@@ -17,7 +17,7 @@
 }
 
 .info-box__img {
-	background-image: url('../images/prof-img.jpg');
+	background-image: url('../../images/prof-img.jpg');
 	height: 200px;
 	width: 20%;
 	background-repeat: no-repeat;
